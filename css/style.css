@@ -1,0 +1,92 @@
+
+@font-face {
+  font-family: "Montserrat1";
+  src: url(../fonts/Montserrat-Light.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(../fonts/Montserrat-Thin.ttf);
+}
+
+body {
+  background-image: url(../img/montain.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+.spacerLarge {
+  margin-top: 000px;
+  margin-left: 33%;
+  margin-right: 33%;
+  height: 1px;
+  margin-bottom: 30px;
+}
+
+
+.title {
+  text-align: center;
+  height: 100%;
+}
+
+.SB {
+  margin-top:450px;
+  font-size: 40px;
+  font-family: "Montserrat1";
+  letter-spacing: 10px;
+  color: #fff;
+}
+
+.titleWhite {
+  color: #000;
+}
+
+.spacerSmall {
+  height: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.spacerDown {
+  height: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+.PT {
+  font-family: "Montserrat1";
+  font-size: 33px;
+  margin-top: 30px;
+  letter-spacing: 25px;
+  color: white;
+}
+
+.PROJET {
+  font-family: "Montserrat";
+  font-size: 20px;
+  margin-top: 120px;
+  letter-spacing: 25px;
+  position: inherit;
+  color: white;
+
+}
+
+.arrow {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.ban1 {
+width:500px;
+height:500px;
+
+
+}
